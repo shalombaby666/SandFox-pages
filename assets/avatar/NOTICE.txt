@@ -1,0 +1,4 @@
+Personal avatar supplied by and used at the direction of the project owner.
+Canonical original: denis-v6-neutral-rusy.png, sitting/working pose.
+The original sprite sheet is reused without image edits, using a CSS viewport.
+This personal artwork is not covered by the MIT license for the application code.
